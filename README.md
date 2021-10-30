@@ -1,6 +1,3 @@
-# FMI-SASD
-Software Architectures and Software Development, 2020-2021
-
 # VeloCity
 
 ## Описание
